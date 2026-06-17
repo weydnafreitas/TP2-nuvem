@@ -1,1 +1,3 @@
-Alteração feita pelo usuario1
+<<<<<<< HEAD
+Alteração usuário 2
+>>>>>>> usuario2
